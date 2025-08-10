@@ -1,4 +1,2 @@
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
-skrepysh.github.io##.adbox.banner_ads.adsbox
-skrepysh.github.io##.textads
