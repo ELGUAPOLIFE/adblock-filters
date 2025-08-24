@@ -1,3 +1,5 @@
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
 ||gljsw.com^$popup
+gljsw.com##+js(nowoif)
+gljsw.com##+js(noset, window.open)
