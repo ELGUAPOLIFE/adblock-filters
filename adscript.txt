@@ -1,3 +1,4 @@
+! Title: My Custom Rules
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
 ||gljsw.com^$popup
