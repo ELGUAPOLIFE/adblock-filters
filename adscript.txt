@@ -3,6 +3,7 @@
 !
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
+||gljsw.com^
 ||gljsw.com^$popup
 ||gljsw.com^$script,third-party
 archivebate.com##+js(prevent-window-open)
