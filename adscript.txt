@@ -1,4 +1,4 @@
-! Title: My Custom Rules for hiding elements ads and banners
+! Title: My Custom Rules for hiding ELEMENTS, ADS and BANNERS
 !
 !
 /pagead.js$domain=d3ward.github.io
