@@ -7,3 +7,4 @@
 ||gljsw.com^$popup
 ||gljsw.com^$script,third-party
 archivebate.com##+js(prevent-window-open)
+chatgpt.com##svg.icon-lg
