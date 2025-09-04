@@ -10,5 +10,6 @@ archivebate.com##+js(prevent-window-open)
 pornhub.com##div.eflenddjfe1756968902656
 pornhub.com##div:has(> video[src^="blob:"])
 xhamster.com##a.thumb-widget.template-content-wrapper
+xhamster.com##div[data-role="NYh-nRwbottom"]
 
 
