@@ -1,4 +1,4 @@
-! Title: My Custom Rules
+! Title: My Custom Rules for hiding elements ads and banners
 !
 !
 /pagead.js$domain=d3ward.github.io
@@ -7,4 +7,4 @@
 ||gljsw.com^$popup
 ||gljsw.com^$script,third-party
 archivebate.com##+js(prevent-window-open)
-chatgpt.com##svg.icon-lg
+
