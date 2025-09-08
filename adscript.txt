@@ -1,4 +1,4 @@
-! Title: Fuck Fuckadblock + My Own Rules
+! Title: Fuck Fuckadblock
 ! Description: Filters for blocking pop-ups and anti-adblock bypass
 ! Author: Bogachenko Vyacheslav
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
@@ -279,8 +279,3 @@ tpi.li,oii.la,tvi.la,oko.sh,lnbz.la##+js(nowoif)
 
 ! easyshort.xyz
 easyshort.xyz##+js(noeval, DOMContentLoaded, showModal)
-
-!------------------My Own Rules------------------
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
-youtube.com##div[id^="scroll-container"]
