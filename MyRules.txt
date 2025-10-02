@@ -6,4 +6,4 @@ youtube.com##div[id^="scroll-container"]
 pornhub.com##.alpha
 pornhub.com##.sideAds
 pornhub.com##div[class*="hd clear original"]
-facebook.com##div[style="width:280px;height:360px;"]
+youtube.com##div[class*="ytd-ad-slot-renderer"]
