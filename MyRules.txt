@@ -5,4 +5,4 @@ pornhub.com##.alpha
 pornhub.com##.sideAds
 pornhub.com##div[class*="hd clear original"]
 youtube.com##div[class*="ytd-banner-promo-renderer"]
-pornhub.com##.tj-inban-container
+||content-loader.com^$image
