@@ -7,3 +7,4 @@ pornhub.com##div[class*="hd clear original"]
 youtube.com##div[class*="ytd-banner-promo-renderer"]
 ||content-loader.com^$image
 ||timesofindia.indiatimes.com^$script
+||amt3.com^$popup
