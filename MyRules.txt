@@ -8,3 +8,4 @@ youtube.com##div[class*="ytd-banner-promo-renderer"]
 ||content-loader.com^$image
 ||timesofindia.indiatimes.com^$script
 ||amt3.com^$popup
+||mixdrop.sn^$script
