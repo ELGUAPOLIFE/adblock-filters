@@ -7,3 +7,4 @@ pornhub.com##.alpha
 pornhub.com##.sideAds
 pornhub.com##div[class*="hd clear original"]
 youtube.com##div[class*="ytd-ad-slot-renderer"]
+youtube.com##div[class*="ytd-banner-promo-renderer"]
