@@ -2,7 +2,7 @@
 
 youtube.com##div[id^="scroll-container"]
 youtube.com##div[class*="ytd-banner-promo-renderer"]
-xvideos.com##.ntve6fbB29fE91BBDC980d9bA341b841B61
+xvideos.com##div[class*="ntv"]
 pornhub.com##.alpha
 pornhub.com##.sideAds
 pornhub.com##div[class*="hd clear original"]
