@@ -11,3 +11,6 @@ youtube.com##div[class*="ytd-banner-promo-renderer"]
 ||ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js$script
 ##.tj-inban-container
 pornhub.com##div[style*="width:950px;height:250px"]
+pornhub.com##div[style^="width:950px;height:250px"]
+pornhub.com##div[style$="width:950px;height:250px"]
+pornhub.com##div[style="width:950px;height:250px"]
