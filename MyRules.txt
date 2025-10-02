@@ -10,3 +10,4 @@ pornhub.com##div[class*="hd clear original"]
 ||content-loader.com^$image
 ||timesofindia.indiatimes.com^$script
 ||amt3.com^$popup
+||thumb.live.mmcdn.com^
