@@ -6,4 +6,3 @@ youtube.com##div[id^="scroll-container"]
 pornhub.com##.alpha
 pornhub.com##.sideAds
 pornhub.com##div[class*="hd clear original"]
-||fbcdn.net^
