@@ -9,3 +9,4 @@ youtube.com##div[class*="ytd-banner-promo-renderer"]
 ||timesofindia.indiatimes.com^$script
 ||amt3.com^$popup
 ||mixdrop.sg^$script
+||archivebate.com^$script
