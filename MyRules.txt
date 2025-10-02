@@ -9,3 +9,4 @@ pornhub.com##div[class*="hd clear original"]
 ||amt3.com^$popup
 ||thumb.live.mmcdn.com^
 timesofindia.indiatimes.com##div[class*="_AmfD sidebar_ad_fix"]
+timesofindia.indiatimes.com#@#.ISnJ7
