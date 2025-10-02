@@ -1,4 +1,4 @@
-! Title: xYYYYYYY
+! Title: xYYYYY
 ! Description: Filters for blocking pop-ups and anti-adblock bypass
 ! Author: Bogachenko Vyacheslav
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
