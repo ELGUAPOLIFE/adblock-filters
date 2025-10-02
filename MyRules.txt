@@ -11,4 +11,3 @@ pornhub.com##div[class*="hd clear original"]
 ||timesofindia.indiatimes.com^$script
 ||amt3.com^$popup
 ||thumb.live.mmcdn.com^
-||en.xhamster.com/en/advert/widget/spot/ad/plugins/adrotate-pro/ad/plugins/adrotate-pro-latest/ad/adsplugin/js/ad/wp-bannerize-/1759435214/ad.js$script
