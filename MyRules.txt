@@ -6,7 +6,5 @@ pornhub.com##.alpha
 pornhub.com##.sideAds
 pornhub.com##div[class*="hd clear original"]
 ##.tj-inban-container
-||content-loader.com^$image
-||timesofindia.indiatimes.com^$script
 ||amt3.com^$popup
 ||thumb.live.mmcdn.com^
