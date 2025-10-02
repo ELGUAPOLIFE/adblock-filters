@@ -10,3 +10,6 @@ pornhub.com##div[class*="hd clear original"]
 ||thumb.live.mmcdn.com^
 timesofindia.indiatimes.com##div[class*="_AmfD sidebar_ad_fix"]
 timesofindia.indiatimes.com#@#.ISnJ7
+timesofindia.indiatimes.com##.xVL10
+timesofindia.indiatimes.com##.hX4Dl
+timesofindia.indiatimes.com##.w3AnZ
