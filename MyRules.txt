@@ -4,3 +4,4 @@
 /widget/ads.
 youtube.com##div[id^="scroll-container"]
 pornhub.com##.alpha
+pornhub.com##.sideAds
