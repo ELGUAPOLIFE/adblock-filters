@@ -1,6 +1,5 @@
 !Title: xXXXXX
 
-youtube.com##div[id^="scroll-container"]
 youtube.com##div[class*="ytd-banner-promo-renderer"]
 xvideos.com##div[class*="ntv"]
 pornhub.com##.alpha
