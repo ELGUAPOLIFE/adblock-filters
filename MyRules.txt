@@ -5,6 +5,8 @@ xvideos.com##div[class*="ntv"]
 pornhub.com##.alpha
 pornhub.com##.sideAds
 pornhub.com##div[class*="hd clear original"]
+pornhub.com##div[class*="adsContainer"]
+pornhub.com#@#.extraRelatedVid.latestThumbDesign
 ##.tj-inban-container
 ||amt3.com^$popup
 ||thumb.live.mmcdn.com^
