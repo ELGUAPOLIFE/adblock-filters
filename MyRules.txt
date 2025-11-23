@@ -83,10 +83,10 @@ www.xtits.xxx###lj-container
 redtube.net###main-container > div[class$="vrc"]
 redtube.net#@#.*tab-block-content-wrap
 ! RedTube Ads Under Video player
-www.redtube.net##.ads_under_player
+redtube.net##.ads_under_player
 ! RedTube Cookie Notice
-www.redtube.net###content_wrapper > .clearfix
-www.redtube.net###cookie_consent_wrapper
+redtube.net###content_wrapper > .clearfix
+redtube.net###cookie_consent_wrapper
 
 ! YouPorn SideBar Ads
 youporn.com##.top_bottom_wrapper
@@ -94,12 +94,12 @@ youporn.com##.top_bottom_wrapper
 youporn.com##.tm_playWrapper.playWrapper > :not(.video-wrapper)
 youporn.com#@#.video-wrapper
 ! Bottom Banner of the page
-www.youporn.com##footer > :nth-child(1)
-www.youporn.com##footer > :nth-child(1) *
-www.youporn.com#@#.footer-links-container > nav
-www.youporn.com#@#.footer-links-container
-www.youporn.com#@#.footer-links-container *
-www.youporn.com##.footer-element
+youporn.com##footer > :nth-child(1)
+youporn.com##footer > :nth-child(1) *
+youporn.com#@#.footer-links-container > nav
+youporn.com#@#.footer-links-container
+youporn.com#@#.footer-links-container *
+youporn.com##.footer-element
 
 ! Moviebox
 moviebox.ph##.pc-box
@@ -110,3 +110,11 @@ fmoviesunblocked.net##.pointer.pc-download-banner.flx-ce-sta
 ||video.flirtify.com^
 ||www.redgifs.com/static$image
 www.redgifs.com##.liveAdButton
+
+! Pornhub Sidebar Ads
+!pornhub.com###hd-leftColVideoPage > div.topSectionGrid:first-child > div.sideColumn.original:last-child > div.sideAds:first-child
+! Pornhub Ads Under Video Player
+!pornhub.com##.original.clear.hd
+! Pornhub homepage Ad
+!pornhub.com###singleFeedSection > .alpha:first-child
+
