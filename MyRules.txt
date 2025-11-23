@@ -1,12 +1,112 @@
-!Title: xXXXXX
+!Title: zZZZZZ ( Local )
 
-youtube.com##div[class*="ytd-banner-promo-renderer"]
-xvideos.com##div[class*="ntv"]
-pornhub.com##.alpha
-pornhub.com##.sideAds
-pornhub.com##div[class*="hd clear original"]
-pornhub.com##div[class*="adsContainer"]
-pornhub.com#@#.extraRelatedVid.latestThumbDesign
-##.tj-inban-container
+! If want to disable or ignore any rule or text add ! before that and if want to enable remove ! before that.
+
+! Hides Startpage sponsored ads
+www.startpage.com##.css-fdsa11.ex-cl
+
+!Hides FB Reels only
+facebook.com##div[aria-label="Reels"]
+
+! Header of Reels, Friend Suggestions
+www.facebook.com##.x1g0dm76.x1120s5i.xpdmqnj.xz9dl7a.x1qughib.x1q0g3np.x78zum5
+www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(2)
+
+! Reels and Friend Suggestions
+!www.facebook.com##.x1y1aw1k.xwib8y2.x9otpla.x1wsgfga.x1ja2u2z.x1n2onr6.x9f619 > .xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
+
+! See all button of Friend Suggestion section
+!www.facebook.com##.x1g0dm76.x1l90r2v.xpdmqnj.x1y1aw1k.xl56j7k.x1qx5ct2.x78zum5.x6s0dn4
+
+! Group Suggestions
+!www.facebook.com##.x10wlt62.x1q0g3np.x78zum5.x1ja2u2z.x1n2onr6.x6ikm8r.x5lxg6s.x1q594ok.xb57i2i.x2atdfe > .x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1n2onr6.xozqiw3.x1q0g3np.x78zum5
+!www.facebook.com##.x1iorvi4.xpdmqnj.x1g0dm76.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+!www.facebook.com##.xwib8y2.x1y1aw1k.xpdmqnj.x1g0dm76.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+
+! FB sidebar ads
+www.facebook.com##.x1pdlv7q.x1a2a7pz.x1rg5ohu.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
+
+www.facebook.com##.x1y1aw1k > div > div > .xyen2ro.x1uc6qws.x1n2onr6 > .x1cnzs8.xjkvuk6.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xv54qhq.xf7dkkf.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x16ldp7u.xz62fqu.xdt5ytf.x78zum5 > .x1ok221b.xu06os2 > .xeuugli.x193iq5w.x1a2a7pz.x1pd3egz.x1qlqyl8.x1heor9g.x1vvkbs.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-h3 > .x1yc453h.xi81zsa.x1s688f.x1lbecb7.x1lkfr7t.x3x7a5m.xudqn12.x1943h6x.x1fgarty.x1cpjm7i.x1gmr53x.xhkezso.x1s928wv.x1lliihq.x1xmvt09.x1vvkbs.x13faqbe.xeuugli.x193iq5w > .x1j85h84.x1n2onr6.x10wlt62.x6ikm8r.x1lliihq
+
+www.facebook.com##.x8du52y.x1164lod.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1yc453h.x13fj5qh.xat24cr.x1xegmmw.xdj266r.xjb2p0i.x1ypdohk.x1ihp6rs.xr2y4jy.x1whfx0g.x1i5p2am.x1f0uuog.xaqea5y.x12wdn4z.x6umtig.x78zum5.html-div
+www.facebook.com##.x1y1aw1k > div > div > .xyen2ro.x1uc6qws.x1n2onr6 > .x1y1aw1k.xwib8y2 > div > div > div > .x1n2onr6
+
+
+||chatmate.tv^$popup
 ||amt3.com^$popup
+||zrlqm.com^$popup
+||recu.me^$popup
+||s.ku34bh9la09.com^$popup
 
+##.tj-inban-container
+timesofindia.indiatimes.com##._MxBD
+
+xhamster.com,xhamster.desi,xhamster3.com,xhamster2.com,xhamster19.com,xhopen.com,xhaccess.com,xhbranch5.com,xhamster44.desi##.XegQp-eUxplayer-hover-menu
+xhamster.com,xhamster.desi,xhamster3.com,xhamster2.com,xhamster19.com,xhopen.com,xhaccess.com,xhbranch5.com,xhamster44.desi##._8001cef8._33567d0b._1e3032d2
+xhamster44.desi##.Ga-fNzRbanner--flex-center.Ga-fNzRbanner
+xhamster44.desi##.Ga-fNzRsp-a.Ga-fNzRsp-b
+xhamster44.desi##.vertical.Ga-fNzRcam-wgt
+xhamster44.desi##.wrapper-dab84
+xhamster44.desi##.Ga-fNzRno-ts-init.Ga-fNzR.Ga-fNzRplayer
+xhamster44.desi##.Ga-fNzR.Ga-fNzRbottom-widget-section
+xhamster44.desi##.desktopFhContainer-52e1b.desktopContainer-52e1b.fixed-height.Ga-fNzRpremium-n-overlay
+xhamster44.desi##.desktopXhlContainer-52e1b.desktopContainer-52e1b.fixed-height.Ga-fNzRpremium-n-overlay
+xhamster44.desi##.width-wrap.Ga-fNzRclipstore-bottom
+xhamster44.desi##._1e14c-centered
+xhamster44.desi##._1e14c-pauseSpotContainer
+||ic-vrm-nss.xhcdn.com/a/OTQ0ZGE4ZWJlYjg3Njc0NDNlMTM5M2UyZTVmZGJkOTY/jpeg/promo/message/2199/690dc6bc25a61.jpg$image
+
+f1.keporn.vip##.right
+f1.keporn.vip##.qkitvttysiqvqvkkyy
+f1.keporn.vip##section:nth-of-type(2)
+f1.keporn.vip##.cookies
+f1.keporn.vip##.video__info > section
+
+vr-porn.tube,f1.keporn.vip,ooxxx.com##.thumb-slider
+
+||blcknvr.com/api/postback/icon$image
+vr-porn.tube##.left > section
+vr-porn.tube##.right
+vr-porn.tube##article
+vr-porn.tube##div.wrapper > section
+www.vivatube.com##.drt-spot-visible.no-buttons.drt-spot-box
+www.vivatube.com###spot_video_underplayer_livecams
+www.vivatube.com##.abtext
+www.vivatube.com##.thr-rcol
+www.vivatube.com##div.container:nth-of-type(5)
+www.vivatube.com##.spot-live-cam.th-video
+www.xtits.xxx##.table
+www.xtits.xxx##.wrapper-holder > div > div > p
+www.xtits.xxx###lj-container
+
+! Redtube SideBar ads
+redtube.net###main-container > div[class$="vrc"]
+redtube.net#@#.*tab-block-content-wrap
+! RedTube Ads Under Video player
+www.redtube.net##.ads_under_player
+! RedTube Cookie Notice
+www.redtube.net###content_wrapper > .clearfix
+www.redtube.net###cookie_consent_wrapper
+
+! YouPorn SideBar Ads
+youporn.com##.top_bottom_wrapper
+! YouPorn Ads Under Video Player
+youporn.com##.tm_playWrapper.playWrapper > :not(.video-wrapper)
+youporn.com#@#.video-wrapper
+! Bottom Banner of the page
+www.youporn.com##footer > :nth-child(1)
+www.youporn.com##footer > :nth-child(1) *
+www.youporn.com#@#.footer-links-container > nav
+www.youporn.com#@#.footer-links-container
+www.youporn.com#@#.footer-links-container *
+www.youporn.com##.footer-element
+
+! Moviebox
+moviebox.ph##.pc-box
+moviebox.ph##.flx-ce-ce.pc-guide-mask
+fmoviesunblocked.net##[src*="https://h5-static.aoneroom.com/spa/videoPlayPage/assets/pc-download-banner-finger.d96849ea.png"]
+fmoviesunblocked.net##.pointer.pc-download-banner.flx-ce-sta
+
+||video.flirtify.com^
+||www.redgifs.com/static$image
+www.redgifs.com##.liveAdButton
