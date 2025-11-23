@@ -9,9 +9,4 @@ pornhub.com##div[class*="adsContainer"]
 pornhub.com#@#.extraRelatedVid.latestThumbDesign
 ##.tj-inban-container
 ||amt3.com^$popup
-||thumb.live.mmcdn.com^
-timesofindia.indiatimes.com##.sidebar_ad_fix
-timesofindia.indiatimes.com#@#.ISnJ7
-timesofindia.indiatimes.com##.xVL10
-timesofindia.indiatimes.com##.hX4Dl
-timesofindia.indiatimes.com##.w3AnZ
+
